@@ -50,7 +50,7 @@
                 android:textStyle="normal" />
 
             <android.support.v7.widget.AppCompatButton
-                android:id="@+id/google_button_button"
+                android:id="@+id/google_button"
                 style="@style/Widget.AppCompat.Button.Colored"
                 app:backgroundTint="@color/google_color"
                 android:layout_width="match_parent"
